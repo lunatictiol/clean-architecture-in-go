@@ -1,6 +1,9 @@
 Project Name: clean-architecture-practice-go
+
 Main Language: Go
-Description: A Go project for practicing clean architecture, including a server, configuration, and internal services.
+
+Description: A Go project for practicing clean architecture, including a server, 
+configuration, and internal services.
 
 Features:
 
